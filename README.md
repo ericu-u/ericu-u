@@ -1,8 +1,5 @@
 # Hi there 👋
 
-<!--
-**ericu-u/ericu-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ✨ Hi! I’m a third year student at UCSD pursuing a B.S. degree in Data Science and minor in Business Analytics with a concentration in supply chain management. My primary interests are in the areas of data analysis, statistics, and finance and business management. I'm just entering the job market, but I'm really excited to learn new things while working with so many other passionate teammates!
 
 
