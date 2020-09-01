@@ -9,3 +9,5 @@
 
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm OBSESSED with bouldering! :)
+
+Feel free to learn more about me [here](http://theericadventure.weebly.com/ "My personal website")!
